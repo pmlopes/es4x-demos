@@ -20,6 +20,6 @@ curl localhost:3000
 ```bash
 cd async
 npm start
-```
 
-Open index.js
+# Open index.js
+```
